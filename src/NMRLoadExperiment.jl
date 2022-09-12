@@ -1,7 +1,7 @@
 module NMRLoadExperiment
 
 import PythonCall
-import ConfigPkg
+import CondaPkg
 
 include("load.jl")
 
