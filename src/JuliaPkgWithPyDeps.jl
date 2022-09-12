@@ -1,5 +1,10 @@
 module JuliaPkgWithPyDeps
 
-# Write your package code here.
+import PythonCall
+import ConfigPkg
+
+include("load.jl")
+
+export loadexperiment
 
 end
