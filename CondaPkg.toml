@@ -1,3 +1,7 @@
+channels = ["bioconda", "conda-forge"]
 
 [deps.nmrglue]
 channel = "bioconda"
+
+[deps]
+python = ">=3.10"
