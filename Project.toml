@@ -1,4 +1,4 @@
-name = "JuliaPkgWithPyDeps"
+name = "NMRLoadExperiment"
 uuid = "ce0fc8ff-1e33-45a7-bb5c-d56f915e0515"
 authors = ["Roy <rwang013@uottawa.ca> and contributors"]
 version = "0.1.0"
