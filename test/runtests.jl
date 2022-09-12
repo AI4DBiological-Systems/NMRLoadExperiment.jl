@@ -1,6 +1,6 @@
-using JuliaPkgWithPyDeps
+using NMRLoadExperiment
 using Test
 
-@testset "JuliaPkgWithPyDeps.jl" begin
+@testset "NMRLoadExperiment.jl" begin
     # Write your tests here.
 end
