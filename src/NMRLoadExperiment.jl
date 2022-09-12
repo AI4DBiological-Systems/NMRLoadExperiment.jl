@@ -1,4 +1,4 @@
-module JuliaPkgWithPyDeps
+module NMRLoadExperiment
 
 import PythonCall
 import ConfigPkg
